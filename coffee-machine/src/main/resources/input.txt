@@ -1,0 +1,10 @@
+drink,hot_tea,hot_coffee
+drink,hot_tea,hot_coffee
+refill,hot_water,1000
+refill,hot_milk,1000
+refill,sugar_syrup,1000
+refill,tea_leaves_syrup,1000
+refill,green_mixture,1000
+drink,black_tea,hot_coffee,green_tea
+drink,hot_tea,green_tea
+drink,hot_tea,hot_coffee
